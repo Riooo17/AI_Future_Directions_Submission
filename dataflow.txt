@@ -1,0 +1,6 @@
+Dataflow diagram (ASCII):
+
+[Sensors] --> [Microcontroller (ESP32/LoRa)] --> [Gateway (Raspberry Pi)]
+       --> [Edge preprocessing & inference] --> [Actuators / Dashboard / Cloud Sync]
+
+Sensors: soil moisture, soil temp, air temp/humidity, light, pH, EC, rain gauge
