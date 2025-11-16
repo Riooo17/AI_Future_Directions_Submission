@@ -1,0 +1,4 @@
+Mock Edge AI Model Results:
+Accuracy: 0.89
+Loss: 0.23
+Converted to TFLite: Yes

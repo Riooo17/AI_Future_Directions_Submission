@@ -1,0 +1,3 @@
+Smart Agriculture Simulation:
+Predicted yields generated.
+(Synthetic simulation data)
